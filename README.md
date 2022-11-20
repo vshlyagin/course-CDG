@@ -1,0 +1,2 @@
+# course-CDG
+clone inst
